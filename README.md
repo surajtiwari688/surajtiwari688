@@ -16,7 +16,7 @@
 
 ## 👋 About Me
 
-I'm a **Senior DevOps & Platform Engineer** with **4.5+ years** of experience designing, running and securing cloud-native platforms for large enterprise environments at **Capgemini**. I work across **Azure and Google Cloud**, with a focus on **platform engineering, GitOps, DevSecOps and reliability**, building systems that are automated, observable and easy for developers to use.
+I'm a **Senior DevOps & Platform Engineer** with **5+ years** of experience designing, running and securing cloud-native platforms for large enterprise environments at **Capgemini**. I work across **Azure and Google Cloud**, with a focus on **platform engineering, GitOps, DevSecOps and reliability**, building systems that are automated, observable and easy for developers to use.
 
 - ☁️ **Platforms:** AKS and GKE operations, Terraform IaC, CI/CD pipelines and release automation
 - 🔐 **DevSecOps:** image scanning, code quality gates, Binary Authorization, least-privilege IAM
